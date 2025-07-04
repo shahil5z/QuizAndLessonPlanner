@@ -1,0 +1,60 @@
+{
+  "topic": "Python Basics",
+  "questions": [
+    {
+      "question": "What is the output of the following Python code: print(type(10))",
+      "options": [
+        "int",
+        "float",
+        "string",
+        "list"
+      ],
+      "correct_answer": "int",
+      "explanation": "The type() function in Python returns the type of an object. In this case, the type of 10 is an integer."
+    },
+    {
+      "question": "What is the purpose of the `__main__` block in Python?",
+      "options": [
+        "To declare a function",
+        "To define a class",
+        "To ensure that certain code is only executed when the script is run directly (not imported)",
+        "To import modules"
+      ],
+      "correct_answer": "To ensure that certain code is only executed when the script is run directly (not imported)",
+      "explanation": "The `__main__` block is used to ensure that certain code is only executed when the script is run directly (not imported) as a module in another script."
+    },
+    {
+      "question": "What is the difference between `break` and `continue` statements in Python?",
+      "options": [
+        "`break` skips the current iteration and moves to the next one, while `continue` exits the loop",
+        "`break` exits the loop, while `continue` skips the current iteration and moves to the next one",
+        "Both do the same thing",
+        "None of the above"
+      ],
+      "correct_answer": "`break` exits the loop, while `continue` skips the current iteration and moves to the next one",
+      "explanation": "The `break` statement is used to exit a loop, while the `continue` statement is used to skip the current iteration and move to the next one."
+    },
+    {
+      "question": "What is the output of the following Python code: x = 5; y = '5'; print(x == y)",
+      "options": [
+        "True",
+        "False",
+        "Error",
+        "None"
+      ],
+      "correct_answer": "False",
+      "explanation": "The `==` operator checks for equality of values, but in this case, `x` is an integer and `y` is a string, so they are not equal."
+    },
+    {
+      "question": "What is the purpose of the `pass` statement in Python?",
+      "options": [
+        "To raise an exception",
+        "To skip the current iteration",
+        "To do nothing (it's a placeholder)",
+        "To exit the program"
+      ],
+      "correct_answer": "To do nothing (it's a placeholder)",
+      "explanation": "The `pass` statement is a placeholder that does nothing when executed. It's often used as a placeholder in code that's not yet implemented."
+    }
+  ]
+}

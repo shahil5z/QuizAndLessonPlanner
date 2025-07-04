@@ -1,0 +1,53 @@
+{
+  "topic": "Python Programming Basics",
+  "duration": "4 hours",
+  "objectives": [
+    "Understand the basic syntax and data types in Python",
+    "Be able to write simple Python programs using variables, operators, and control structures",
+    "Understand the concept of functions and modules in Python"
+  ],
+  "sections": [
+    {
+      "title": "Introduction to Python",
+      "content": "Overview of Python, history, features, and applications. Installing Python and setting up the environment.",
+      "duration": "30 minutes",
+      "activities": [
+        "Install Python on their laptops",
+        "Write their first Python program using print function"
+      ]
+    },
+    {
+      "title": "Basic Syntax and Data Types",
+      "content": "Variables, data types (strings, numbers, booleans), basic operators (arithmetic, comparison, logical), and control structures (if-else, for loops)",
+      "duration": "1 hour",
+      "activities": [
+        "Write a program to calculate the area of a rectangle",
+        "Write a program to convert Celsius to Fahrenheit"
+      ]
+    },
+    {
+      "title": "Functions and Modules",
+      "content": "Defining and calling functions, built-in functions (len(), type(), etc.), importing modules (math, random, etc.)",
+      "duration": "1 hour",
+      "activities": [
+        "Write a program to calculate the factorial of a number using a function",
+        "Write a program to generate a random number between 1 and 100 using the random module"
+      ]
+    },
+    {
+      "title": "Practice Time",
+      "content": "Students will work on exercises and projects to practice their Python skills",
+      "duration": "1.5 hours",
+      "activities": [
+        "Work on exercises from online resources (e.g. LeetCode, HackerRank)",
+        "Work on a small project (e.g. calculator program, game)"
+      ]
+    }
+  ],
+  "assessment": "Students will be assessed based on their participation in class, completion of exercises and projects, and a final quiz",
+  "resources": [
+    "Python documentation (https://docs.python.org/3/)",
+    "W3Schools Python Tutorial (https://www.w3schools.com/python/)",
+    "Python for Everybody (online course on Coursera)"
+  ]
+}

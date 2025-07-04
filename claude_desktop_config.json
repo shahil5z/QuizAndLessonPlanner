@@ -1,0 +1,14 @@
+{
+	"darkMode": "dark",
+	"scale": 0,
+	"locale": "en-US",
+	"mcp_servers": [
+		{
+			"name": "EduChain Server",
+			"url": "http://localhost:5000",
+			"enabled": true,
+			"auth_token": null
+		}
+	],
+	"other_settings": {}
+}

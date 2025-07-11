@@ -3,6 +3,12 @@
 ## Overview
 EduChain is a simple tool that creates educational content like quizzes and lesson plans using the Groq API. It has two main parts: a command-line script for generating content and a web interface built with Gradio for easy use. The tool is designed to help teachers and learners create multiple-choice questions (MCQs) and structured lesson plans on any topic.
 
+## Sample Image 1
+![image alt](https://github.com/shahil5z/QuizAndLessonPlanner/blob/2b8b1fb0be7379d8e03c38d77fdc6fe23353c20b/SAMPLE_IMAGE_1.png)
+
+## Sample Image 2
+![image alt](https://github.com/shahil5z/QuizAndLessonPlanner/blob/2b8b1fb0be7379d8e03c38d77fdc6fe23353c20b/SAMPLE_IMAGE_2.png)
+
 ## Features
 - **Quiz Generator**: Creates multiple-choice questions with options, correct answers, and explanations for any topic.
 - **Lesson Planner**: Generates detailed lesson plans with objectives, sections, activities, and assessments.
@@ -75,4 +81,3 @@ EduChain is a simple tool that creates educational content like quizzes and less
 - The Gradio interface runs on port `7860` by default.
 - The MCP server runs on port `6000` by default (mock mode only).
 - Make sure your `.env` file has a valid Groq API key.
-- The sample images (`quiz_generator.png`, `lesson_planner.png`) show the Gradio UI for reference.
